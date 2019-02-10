@@ -1,2 +1,3 @@
 # advanced-nlp-with-spacy
-Notes Udemy course Advanced NLP with spaCy
+
+This repository includes my notes about the DataCamp course ["Advanced NLP with Spacy"](https://www.datacamp.com/courses/advanced-nlp-with-spacy) 
